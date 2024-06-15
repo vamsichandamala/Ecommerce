@@ -1,0 +1,16 @@
+.newcollections{
+    display: flex;
+    flex-direction: column;
+}
+.newcollections h1{
+    text-align: center;
+}
+.collections{
+    display: grid;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    grid-template-columns: repeat(auto-fill,minmax(250px,auto));
+    padding: 30px;
+    justify-content: center;
+}

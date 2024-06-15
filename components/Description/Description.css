@@ -1,0 +1,12 @@
+.description-review{
+    padding:20px;
+    margin-top: 2rem;
+}
+.btns button{
+    border: 1px solid silver;
+    margin-bottom: 10px;
+
+}
+.content{
+    text-align: justify;
+}
